@@ -1,0 +1,152 @@
+{
+placements: [
+{
+position: {
+x: 0.56687117,
+y: 0.59170306
+},
+sticker: {
+publicId: "6040adde-4f0e-4c53-a2e9-d5e05bde3944",
+name: "heart",
+url: "https://user-image.creekcdn.com/mediasvc/v1/sticker/v/0/6040adde-4f0e-4c53-a2e9-d5e05bde3944.svg",
+_links: {
+svg: "https://user-image.creekcdn.com/mediasvc/v1/sticker/v/0/6040adde-4f0e-4c53-a2e9-d5e05bde3944.svg",
+png: "https://user-image.creekcdn.com/mediasvc/v1/sticker/v/0/6040adde-4f0e-4c53-a2e9-d5e05bde3944.png"
+},
+price: 10,
+duration: 3,
+version: 0,
+contestBonus: false,
+bonusDetails: null,
+visibilityId: 1
+},
+id: "9604665d-b3e8-11e8-8847-0cc47a91e984",
+time: "2018-09-09T04:26:56.5455453Z",
+buyer: {
+publicId: "cc0eb3af-5da2-4e9e-ae65-d092a40e2861",
+username: "NekoStar",
+slug: "nekostar"
+}
+},
+{
+position: {
+x: 0.7631902,
+y: 0.5524017
+},
+sticker: {
+publicId: "6040adde-4f0e-4c53-a2e9-d5e05bde3944",
+name: "heart",
+url: "https://user-image.creekcdn.com/mediasvc/v1/sticker/v/0/6040adde-4f0e-4c53-a2e9-d5e05bde3944.svg",
+_links: {
+svg: "https://user-image.creekcdn.com/mediasvc/v1/sticker/v/0/6040adde-4f0e-4c53-a2e9-d5e05bde3944.svg",
+png: "https://user-image.creekcdn.com/mediasvc/v1/sticker/v/0/6040adde-4f0e-4c53-a2e9-d5e05bde3944.png"
+},
+price: 10,
+duration: 3,
+version: 0,
+contestBonus: false,
+bonusDetails: null,
+visibilityId: 1
+},
+id: "96c34123-b3e8-11e8-884a-0cc47a91e984",
+time: "2018-09-09T04:26:57.7963299Z",
+buyer: {
+publicId: "cc0eb3af-5da2-4e9e-ae65-d092a40e2861",
+username: "NekoStar",
+slug: "nekostar"
+}
+},
+{
+position: {
+x: 0.55460125,
+y: 0.3951965
+},
+sticker: {
+publicId: "6040adde-4f0e-4c53-a2e9-d5e05bde3944",
+name: "heart",
+url: "https://user-image.creekcdn.com/mediasvc/v1/sticker/v/0/6040adde-4f0e-4c53-a2e9-d5e05bde3944.svg",
+_links: {
+svg: "https://user-image.creekcdn.com/mediasvc/v1/sticker/v/0/6040adde-4f0e-4c53-a2e9-d5e05bde3944.svg",
+png: "https://user-image.creekcdn.com/mediasvc/v1/sticker/v/0/6040adde-4f0e-4c53-a2e9-d5e05bde3944.png"
+},
+price: 10,
+duration: 3,
+version: 0,
+contestBonus: false,
+bonusDetails: null,
+visibilityId: 1
+},
+id: "97a0b7d1-b3e8-11e8-80a5-0cc47a91e772",
+time: "2018-09-09T04:26:59.2477137Z",
+buyer: {
+publicId: "cc0eb3af-5da2-4e9e-ae65-d092a40e2861",
+username: "NekoStar",
+slug: "nekostar"
+}
+},
+{
+position: {
+x: 0.8,
+y: 0.34934497
+},
+sticker: {
+publicId: "6040adde-4f0e-4c53-a2e9-d5e05bde3944",
+name: "heart",
+url: "https://user-image.creekcdn.com/mediasvc/v1/sticker/v/0/6040adde-4f0e-4c53-a2e9-d5e05bde3944.svg",
+_links: {
+svg: "https://user-image.creekcdn.com/mediasvc/v1/sticker/v/0/6040adde-4f0e-4c53-a2e9-d5e05bde3944.svg",
+png: "https://user-image.creekcdn.com/mediasvc/v1/sticker/v/0/6040adde-4f0e-4c53-a2e9-d5e05bde3944.png"
+},
+price: 10,
+duration: 3,
+version: 0,
+contestBonus: false,
+bonusDetails: null,
+visibilityId: 1
+},
+id: "987ad253-b3e8-11e8-80a6-0cc47a91e772",
+time: "2018-09-09T04:27:00.6770771Z",
+buyer: {
+publicId: "cc0eb3af-5da2-4e9e-ae65-d092a40e2861",
+username: "NekoStar",
+slug: "nekostar"
+}
+},
+{
+position: {
+x: 0.66748464,
+y: 0.17248908
+},
+sticker: {
+publicId: "6040adde-4f0e-4c53-a2e9-d5e05bde3944",
+name: "heart",
+url: "https://user-image.creekcdn.com/mediasvc/v1/sticker/v/0/6040adde-4f0e-4c53-a2e9-d5e05bde3944.svg",
+_links: {
+svg: "https://user-image.creekcdn.com/mediasvc/v1/sticker/v/0/6040adde-4f0e-4c53-a2e9-d5e05bde3944.svg",
+png: "https://user-image.creekcdn.com/mediasvc/v1/sticker/v/0/6040adde-4f0e-4c53-a2e9-d5e05bde3944.png"
+},
+price: 10,
+duration: 3,
+version: 0,
+contestBonus: false,
+bonusDetails: null,
+visibilityId: 1
+},
+id: "999f509f-b3e8-11e8-92a2-0cc47a91e8fa",
+time: "2018-09-09T04:27:02.5939615Z",
+buyer: {
+publicId: "cc0eb3af-5da2-4e9e-ae65-d092a40e2861",
+username: "NekoStar",
+slug: "nekostar"
+}
+}
+],
+_links: {
+next: {
+href: "https://www.stream.me/api-stickers/v1/users/f9d385ae-d6eb-482a-9598-6763e4b7a6cb/stickers/placements?limit=50&offset=999f509f-b3e8-11e8-92a2-0cc47a91e8fa"
+},
+self: {
+href: "https://www.stream.me/api-stickers/v1/users/f9d385ae-d6eb-482a-9598-6763e4b7a6cb/stickers/placements?limit=50&offset=03129559-b3e7-11e8-91df-0cc47a91e8fa"
+}
+}
+}
